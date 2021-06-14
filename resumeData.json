@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name": "Sujith Kumar Kupunarapu",
+    "occupation": "Senior Software Engineer |",
+    "description": "Brings new changes into the system. Strives hard to bring great contribution to the organization with dedication and innovation",
+    "image": "profile_pic.jpg",
+    "bio": "I am an athelete at heart, with a bring in change spirit with new technologies, a knack for better designing system for better scalability and performance, and passion for coding. Born in Indian city, Hyderabad. I made my move to USA in 2017 after gaining 6 years of work experience in India in companies cleartrip.com, S&P Global and UnitedHealth Group. Started my career as a Software Developer of Research team at cleartrip.com, continued as Full stack developer, Software Architect || and currently leading a team. I enjoy taking new technologies challenges, working closely with business to understand requirements and taking the responsibilty of designing, developing and implementing to production. Outside of my office work, spends time to catch up with latest technologies trend.",
+    "contactmessage": "This is how you can contact me :).",
+    "email": "sujjjith@gmail.com",
+    "phone": "214-620-8065",
+    "address": {
+      "street": "311 watervale dr",
+      "city": "St Augustine",
+      "state": "FL",
+      "zip": "32092"
+    },
+    "resumedownload": "https://www.linkedin.com/in/sujjjith/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sujith.kupunarapu/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/sujithKumarKupu",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sujjjith/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kupunarapu/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sujjjith",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/578267/sujith",
+        "className": "fa fa-stack-overflow"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Vellore Institute of Technology",
+        "degree": "Bachelors in Technology, Computer Science",
+        "graduated": "April 2011",
+        "description": "Was Vice President, Student's council during my Bachelors of Technology in Computer Science. Involved in many University societies as Head of CSI (Computer Society Of India), Founder of IEEE Computer Society at University and participated in almost all the technical events/symposiums happened in my University either as an organizer or speaker. These societies involvement triggered spark in me to learn technologies and make coding as hobby."
+      }
+    ],
+    "work": [
+      {
+        "company": "CSX",
+        "title": "Senior Software Engineer",
+        "years": "June 2019 - Present",
+        "description": "At CSX, we help users with freight railroad services. I was brought in early as a Full Stack Developer for rewrite of ShipCSX modules. ShipCSX provides online shipment management and tracking tools for CSX customers to plan, ship, trace and pay for shipments quickly and efficiently. I have been leading team in ShipCSX, where my responsibilities are working closely with business to understand requirements, design system for the team to work on Angular and Java applications, develop, deploy and maintain these applications. Actively contributed for development of Automation Framework, docker end-to-end testing, implementing latest features of Java, Angular and microservices architecture."
+      },
+      {
+        "company": "Overstock.com",
+        "title": "Software Developer ||",
+        "years": "August 2017 - June 2019",
+        "description": "At Overstock I worked as a Search Engine Optimization developer. Played key role as SEO developer in developing high performant microservices for all overstock product urls, product reviews, product redirests and guides."
+      },
+      {
+        "company": "UniedHealth Group",
+        "title": "Senior Developer",
+        "years": "February 2016 - August 2017",
+        "description": "Here at UnitedHealth Group, I worked for a Provisioning team, which provides authorization to users for various internal modules. This role gave me enough exposure to agile processes and be great contributor by following agile principles."
+      },
+      {
+        "company": "S&P Global Market Intelligence",
+        "title": "Software Architect ||",
+        "years": "May 2013 - February 2016",
+        "description": "This organization has taught me to grow from being a developer to Software Architect, mainly this organization has given me exposure to designing data models, become full stack developer and be innovative in every implementation of the project. I have worked on couple of high revenue generating projects, performance and accuracy was critical in these projects. As a software Architect my role was to write utility jar using Oracle Coherence, so that all the teams can use this utility jar for server side caching purpose."
+      },
+      {
+        "company": "Cleartrip.com",
+        "title": "Software Developer",
+        "years": "July 2011 - May 2013",
+        "description": "Started my career as a fresher at cleartrip.com. Cleartrip.com was still a startup when I joined, it gave me immense opportunities to be a part of research team which works on various things from developing microservices to fixing some of DevOps issues etc. This organization also gave me exposure to development of automation framework from scratch which was a great experience. In short my first company laid a strong foundation for me to become a coding lover and nurtured me into a good team leader along with good coding skills and design patterns."
+      },
+      {
+        "company": "Artoo",
+        "title": "Intern",
+        "years": "December 2010 - April 2011",
+        "description": "In my final semester I did my first entry into corporate world as an Intern. Mentor here was the who told me that in technology every problem has a solution whenever I hit a road block with my initial assignment. His words still ringer in my ears even after gaining 10years of work experience, whenever i am stuck with any technical challenge."
+      }
+
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "Springboot",
+        "level": "80%"
+      },
+      {
+        "name": "Angular",
+        "level": "70%"
+      },
+      {
+        "name": "CI/CD",
+        "level": "90%"
+      },
+      {
+        "name": "Agile Process",
+        "level": "80%"
+      },
+      {
+        "name": "Neo4j",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Performance Tuning",
+        "level": "90%"
+      },
+      {
+        "name": "Frameworks Development",
+        "level": "90%"
+      }
+    ]
+  },
+  
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "It is rare that you come across standout talent like Sujith. I had the pleasure of working with Sujith while at Clearttrip, collaborating on several projects varying from building CI/CD pipeline, developing micro services or building mobile apps. I was particularly impressed by Sujith's ability to handle even the toughest of the assignments effortlessly. I attribute this to his sheer dedication and effort he puts in to every task that was assigned to him. Ohh, we still missed him from the team and his jovial attitude long after he was gone. I am sure he would be a an asset to any team.",
+        "user": "Nilesh P, Cheif Architect at SAP Ariba"
+      },
+      {
+        "text": "Sujith has worked with me in UHG and he is very passionate developer. He is always open to think in new ways and comes up with good solutions. He is eager to learn & explore new areas and implement them in the product. He always goes an extra mile to complete his project before schedule and ready to take new assignments. Overall he demonstrated high commitment towards the work and always open to take feedback.",
+        "user": "Udaya Shankar, Senior Delivery Manager at EPAM Systems"
+      },
+      {
+        "text": "Sujith will be a great addition to any team. He is very talented and works hard to ensure that he is a major contributor to each project he's on. He is very enthusiastic and likes learning new technologies. He is a good problem solver. He is very enjoyable to work with.",
+        "user": "Tige Clayton, Development Manager at VisitPay"
+      },
+      {
+        "text": "Sujith is hard-working, a wonderful team player and highly passionate about technology. I was his manager during his two year tenure at S&P Capital IQ working for the Xpressfeed product. He was a lateral hire and his prior Java experience proved to be very valuable to the team. He picked up HTML, CSS, JavaScript and jQuery pretty quickly and added a lot of value to the Xpressfeed Manager project. Later he stepped out of his comfort zone of Java and started learning SQL Server Administration and Performance Tuning. He even pursued a certification in it. His enthusiasm to learn new technologies and drive their adoption in existing projects has been very helpful. His introduction of various unit testing frameworks in JavaScript and Java have been well received by the team. His ability to work with people inside and outside the team is highly appreciable. This was clearly seen during his interactions with various people in the office and during college recruitment. His commitment to a goal and the efforts he puts in achieving them is commendable. Sujith would be a great asset to any team.",
+        "user": "Gautam Muduganti, Full stack Architect at S&P Global Market Intelligence"
+      }
+    ]
+  }
+}
